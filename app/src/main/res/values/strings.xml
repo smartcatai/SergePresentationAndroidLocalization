@@ -2,6 +2,7 @@
     <string name="key_one">String one</string>
     <string name="key_two">String two</string>
     <string name='key_three'>String three</string>
-    <string name="key_four">String four</string>
-    <string name="key_five">String five</string>
+    <string name="key_four">Строка четыре</string>
+    <string name="key_five">Строка пять</string>
+    <string name="key_six">String шесть</string>
 </resources>
