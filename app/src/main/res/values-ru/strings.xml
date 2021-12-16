@@ -1,0 +1,8 @@
+<resources>
+    <string name="key_one">Строка 1</string>
+    <string name="key_two">Строка 2</string>
+    <string name='key_three'>Строка три</string>
+    <string name="key_four">Четвёртая строка</string>
+    <string name="key_five">Пятая строка</string>
+    <string name="key_six">Шестая струна</string>
+</resources>
